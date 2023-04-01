@@ -22,6 +22,37 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.0.0](https://github.com/Maxim-Mazurok/cspell-dicts/compare/@cspell/dict-php-v4.0.1...@cspell/dict-php@5.0.0) (2023-04-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update how words are split ([#2033](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2033))
+* Update cspell-tools for new splitting rules ([#2026](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2026))
+* (php) Only allow splits that are found in English ([#2018](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2018))
+* (dotnet) remove misspelling from dict ([#2014](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2014))
+
+### Updates and Bug Fixes
+
+* (dotnet) remove misspelling from dict ([#2014](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2014)) ([e6b43d2](https://github.com/Maxim-Mazurok/cspell-dicts/commit/e6b43d25deb0daa1eb8392b6a1e2d404099df397))
+* (php) Only allow splits that are found in English ([#2018](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2018)) ([8938d78](https://github.com/Maxim-Mazurok/cspell-dicts/commit/8938d78fd51ed0f9cc7919f42aa77b5f4e7d4e11))
+* Add some terms based upon tests ([#2053](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2053)) ([0dae79b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/0dae79b6f99a2521ba9fee575559e47e9ac9ec2d))
+* Update cspell-tools ([#2013](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2013)) ([8170205](https://github.com/Maxim-Mazurok/cspell-dicts/commit/817020598f24a6d1e82d41919e88952664de2b88))
+* Update cspell-tools for new splitting rules ([#2026](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2026)) ([33656cf](https://github.com/Maxim-Mazurok/cspell-dicts/commit/33656cfeb8afb191eb7b7c685c263ff59736a644))
+* Update how words are split ([#2033](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2033)) ([cae637e](https://github.com/Maxim-Mazurok/cspell-dicts/commit/cae637e413c3a789bb4169867af321db68768891))
+* Workflow Bot -- Build Dictionaries ([#2019](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2019)) ([1d95c5b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/1d95c5b3b3a535986b60c80e8fecf85bee2ba66a))
+* Workflow Bot -- Build Dictionaries ([#2025](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2025)) ([eda2021](https://github.com/Maxim-Mazurok/cspell-dicts/commit/eda20210a249e866214301ac847608e2652113c0))
+* Workflow Bot -- Build Dictionaries ([#2028](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2028)) ([8022594](https://github.com/Maxim-Mazurok/cspell-dicts/commit/802259491c114d3bc075f4f1cef47de2aca4d787))
+* Workflow Bot -- Build Dictionaries ([#2034](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2034)) ([3fc883c](https://github.com/Maxim-Mazurok/cspell-dicts/commit/3fc883c51f748eda2cf98b995f9c0f089915f079))
+* Workflow Bot -- Build Dictionaries ([#2055](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2055)) ([87bcb14](https://github.com/Maxim-Mazurok/cspell-dicts/commit/87bcb14c4e50b1005897331a6435c6dd83fbe0bc))
+
+
+### Miscellaneous
+
+* release main ([#2015](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2015)) ([50e337b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/50e337bb612dd8ebe3d91c09faa1a2b130997ae4))
+* release main ([#2054](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2054)) ([f9e5d70](https://github.com/Maxim-Mazurok/cspell-dicts/commit/f9e5d7009968dd20e50f555f0dd62b699dde4ad2))
+* restore the PHP Sections to the source. ([#2024](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2024)) ([50c369c](https://github.com/Maxim-Mazurok/cspell-dicts/commit/50c369c659d4db1caf71a1f93fb2d57b871a4c83))
+
 ## [4.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-php@4.0.0...@cspell/dict-php@4.0.1) (2023-03-14)
 
 

@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.4](https://github.com/Maxim-Mazurok/cspell-dicts/compare/@cspell/dict-shell-v1.0.3...@cspell/dict-shell@1.0.4) (2023-04-01)
+
+
+### Updates and Bug Fixes
+
+* Add some software related terms ([#2071](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2071)) ([1d6942e](https://github.com/Maxim-Mazurok/cspell-dicts/commit/1d6942ec4ba78740b75d4153b15f4a7f2b89f741))
+* Workflow Bot -- Build Dictionaries ([#2072](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2072)) ([7c7f650](https://github.com/Maxim-Mazurok/cspell-dicts/commit/7c7f650e7af426f8893fd20facb4fc8db1bae75b))
+
+
+### Miscellaneous
+
+* release main ([#2068](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2068)) ([ce7dd93](https://github.com/Maxim-Mazurok/cspell-dicts/commit/ce7dd93a4b482673b3d6cd528d4f7597048ec1b7))
+
 ## [1.0.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-shell@1.0.2...@cspell/dict-shell@1.0.3) (2023-03-20)
 
 

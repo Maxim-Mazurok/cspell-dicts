@@ -3,6 +3,31 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [7.0.0](https://github.com/Maxim-Mazurok/cspell-dicts/compare/@cspell/dict-golang-v6.0.1...@cspell/dict-golang@7.0.0) (2023-04-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* Use go-words as source ([#2039](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2039))
+* Update how words are split ([#2033](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2033))
+* (go) Split out English words ([#2027](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2027))
+
+### Updates and Bug Fixes
+
+* (go) Split out English words ([#2027](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2027)) ([f40d6f5](https://github.com/Maxim-Mazurok/cspell-dicts/commit/f40d6f51d333718026ddcaf6068fe09758703f7c))
+* Add some terms based upon tests ([#2053](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2053)) ([0dae79b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/0dae79b6f99a2521ba9fee575559e47e9ac9ec2d))
+* Update how words are split ([#2033](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2033)) ([cae637e](https://github.com/Maxim-Mazurok/cspell-dicts/commit/cae637e413c3a789bb4169867af321db68768891))
+* Use go-words as source ([#2039](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2039)) ([383ecb2](https://github.com/Maxim-Mazurok/cspell-dicts/commit/383ecb2ae4ef201856c8ffe47574bdcbf78f3fea))
+* Workflow Bot -- Build Dictionaries ([#2028](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2028)) ([8022594](https://github.com/Maxim-Mazurok/cspell-dicts/commit/802259491c114d3bc075f4f1cef47de2aca4d787))
+* Workflow Bot -- Build Dictionaries ([#2034](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2034)) ([3fc883c](https://github.com/Maxim-Mazurok/cspell-dicts/commit/3fc883c51f748eda2cf98b995f9c0f089915f079))
+* Workflow Bot -- Build Dictionaries ([#2055](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2055)) ([87bcb14](https://github.com/Maxim-Mazurok/cspell-dicts/commit/87bcb14c4e50b1005897331a6435c6dd83fbe0bc))
+
+
+### Miscellaneous
+
+* release main ([#2015](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2015)) ([50e337b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/50e337bb612dd8ebe3d91c09faa1a2b130997ae4))
+* release main ([#2054](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2054)) ([f9e5d70](https://github.com/Maxim-Mazurok/cspell-dicts/commit/f9e5d7009968dd20e50f555f0dd62b699dde4ad2))
+
 ## [6.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-golang@6.0.0...@cspell/dict-golang@6.0.1) (2023-03-14)
 
 

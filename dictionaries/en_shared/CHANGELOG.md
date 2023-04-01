@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.0.5](https://github.com/Maxim-Mazurok/cspell-dicts/compare/@cspell/dict-en-shared-v1.0.4...@cspell/dict-en-shared@1.0.5) (2023-04-01)
+
+
+### Updates and Bug Fixes
+
+* add `minimalistic` to en_shared ([#2083](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2083)) ([01cc061](https://github.com/Maxim-Mazurok/cspell-dicts/commit/01cc061702b30d8eba01a9d59b362448e5088afa))
+
+
+### Miscellaneous
+
+* release main ([#2075](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2075)) ([118bb5d](https://github.com/Maxim-Mazurok/cspell-dicts/commit/118bb5d96bf657051b639f3b66613689054f7e8b))
+
 ## [1.0.4](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-shared@1.0.3...@cspell/dict-en-shared@1.0.4) (2023-03-23)
 
 

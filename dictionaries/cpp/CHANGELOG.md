@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.0](https://github.com/Maxim-Mazurok/cspell-dicts/compare/@cspell/dict-cpp-v5.0.2...@cspell/dict-cpp@6.0.0) (2023-04-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update how words are split ([#2033](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2033))
+
+### Updates and Bug Fixes
+
+* (cpp) Add back some legacy terms for now ([#2048](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2048)) ([33ab607](https://github.com/Maxim-Mazurok/cspell-dicts/commit/33ab607b78d9e519b4575af0c94f260e7a23384f))
+* Add some terms based upon tests ([#2053](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2053)) ([0dae79b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/0dae79b6f99a2521ba9fee575559e47e9ac9ec2d))
+* Update how words are split ([#2033](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2033)) ([cae637e](https://github.com/Maxim-Mazurok/cspell-dicts/commit/cae637e413c3a789bb4169867af321db68768891))
+* Workflow Bot -- Build Dictionaries ([#2034](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2034)) ([3fc883c](https://github.com/Maxim-Mazurok/cspell-dicts/commit/3fc883c51f748eda2cf98b995f9c0f089915f079))
+* Workflow Bot -- Build Dictionaries ([#2050](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2050)) ([c58981e](https://github.com/Maxim-Mazurok/cspell-dicts/commit/c58981eeef353d94392b1e26687529442b0bb522))
+* Workflow Bot -- Build Dictionaries ([#2055](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2055)) ([87bcb14](https://github.com/Maxim-Mazurok/cspell-dicts/commit/87bcb14c4e50b1005897331a6435c6dd83fbe0bc))
+
+
+### Miscellaneous
+
+* release main ([#2015](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2015)) ([50e337b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/50e337bb612dd8ebe3d91c09faa1a2b130997ae4))
+* release main ([#2049](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2049)) ([ba9971c](https://github.com/Maxim-Mazurok/cspell-dicts/commit/ba9971cea153bba6b75cbd65bae2cd6284ff43de))
+* release main ([#2054](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2054)) ([f9e5d70](https://github.com/Maxim-Mazurok/cspell-dicts/commit/f9e5d7009968dd20e50f555f0dd62b699dde4ad2))
+
 ## [5.0.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@5.0.1...@cspell/dict-cpp@5.0.2) (2023-03-14)
 
 

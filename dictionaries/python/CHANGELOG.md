@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.3](https://github.com/Maxim-Mazurok/cspell-dicts/compare/@cspell/dict-python-v4.0.2...@cspell/dict-python@4.0.3) (2023-04-01)
+
+
+### Updates and Bug Fixes
+
+* Add "pyright" to Python dictionary ([#2002](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2002)) ([c4623ef](https://github.com/Maxim-Mazurok/cspell-dicts/commit/c4623ef01aa26a11b9f6a4d8c19b3e1a346e6bbd))
+
+
+### Miscellaneous
+
+* release main ([#1997](https://github.com/Maxim-Mazurok/cspell-dicts/issues/1997)) ([598ddd6](https://github.com/Maxim-Mazurok/cspell-dicts/commit/598ddd61d73d1f268f3cb6ab67761de2e52883a1))
+
 ## [4.0.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-python@4.0.1...@cspell/dict-python@4.0.2) (2023-03-08)
 
 
