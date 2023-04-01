@@ -27,6 +27,28 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [6.0.0](https://github.com/Maxim-Mazurok/cspell-dicts/compare/@cspell/dict-powershell-v5.0.1...@cspell/dict-powershell@6.0.0) (2023-04-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update how words are split ([#2033](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2033))
+* Update cspell-tools for new splitting rules ([#2026](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2026))
+
+### Updates and Bug Fixes
+
+* (Powershell) use build command ([#2023](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2023)) ([8578196](https://github.com/Maxim-Mazurok/cspell-dicts/commit/8578196beecaf22124342d0ce1fb2801212d859d))
+* Add Clixml to PowerShell ([#2063](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2063)) ([230bd3e](https://github.com/Maxim-Mazurok/cspell-dicts/commit/230bd3ef0be412824831e905ef4ae359b3c9be3c))
+* Update cspell-tools for new splitting rules ([#2026](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2026)) ([33656cf](https://github.com/Maxim-Mazurok/cspell-dicts/commit/33656cfeb8afb191eb7b7c685c263ff59736a644))
+* Update how words are split ([#2033](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2033)) ([cae637e](https://github.com/Maxim-Mazurok/cspell-dicts/commit/cae637e413c3a789bb4169867af321db68768891))
+* Workflow Bot -- Build Dictionaries ([#2065](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2065)) ([9766f1d](https://github.com/Maxim-Mazurok/cspell-dicts/commit/9766f1d8e5eb2dbb1773ce5bbb39df65927b8303))
+
+
+### Miscellaneous
+
+* release main ([#2015](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2015)) ([50e337b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/50e337bb612dd8ebe3d91c09faa1a2b130997ae4))
+* release main ([#2064](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2064)) ([c547d71](https://github.com/Maxim-Mazurok/cspell-dicts/commit/c547d7174a8612e02ef58bf879f671158311a938))
+
 ## [5.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-powershell@5.0.0...@cspell/dict-powershell@5.0.1) (2023-03-17)
 
 

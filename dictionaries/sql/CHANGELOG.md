@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.0](https://github.com/Maxim-Mazurok/cspell-dicts/compare/@cspell/dict-sql-v2.1.0...@cspell/dict-sql@2.2.0) (2023-04-01)
+
+
+### Features
+
+* Enable "sql" in VS Code by default ([#2010](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2010)) ([d6e3598](https://github.com/Maxim-Mazurok/cspell-dicts/commit/d6e35986fc4daad6373411e34cf7aa8716effb67))
+
+
+### Miscellaneous
+
+* release main ([#2006](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2006)) ([7488f0f](https://github.com/Maxim-Mazurok/cspell-dicts/commit/7488f0ff144ce7cb739dc2e8ed33ae046700c019))
+
 ## [2.1.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-sql@2.0.2...@cspell/dict-sql@2.1.0) (2023-03-10)
 
 

@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.1.6](https://github.com/Maxim-Mazurok/cspell-dicts/compare/@cspell/dict-fullstack-v3.1.5...@cspell/dict-fullstack@3.1.6) (2023-04-01)
+
+
+### Updates and Bug Fixes
+
+* add `nestjs` ([#2077](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2077)) ([f9a17fa](https://github.com/Maxim-Mazurok/cspell-dicts/commit/f9a17fabd3bdfa317fc421aac6148f863e870bcd))
+* Update fullstack.txt ([#2079](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2079)) ([0726760](https://github.com/Maxim-Mazurok/cspell-dicts/commit/0726760a63b8890477597851166b1cb04a903fcd))
+
+
+### Miscellaneous
+
+* release main ([#2075](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2075)) ([118bb5d](https://github.com/Maxim-Mazurok/cspell-dicts/commit/118bb5d96bf657051b639f3b66613689054f7e8b))
+
 ## [3.1.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-fullstack@3.1.4...@cspell/dict-fullstack@3.1.5) (2023-03-23)
 
 

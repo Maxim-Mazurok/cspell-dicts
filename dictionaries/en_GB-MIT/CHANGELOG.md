@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.9](https://github.com/Maxim-Mazurok/cspell-dicts/compare/@cspell/dict-en-gb-mit-v2.1.8...@cspell/dict-en-gb-mit@2.1.9) (2023-04-01)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2084](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2084)) ([a76a879](https://github.com/Maxim-Mazurok/cspell-dicts/commit/a76a87934c3840e29eda36e42f1a57113e211348))
+
+
+### Miscellaneous
+
+* release main ([#2075](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2075)) ([118bb5d](https://github.com/Maxim-Mazurok/cspell-dicts/commit/118bb5d96bf657051b639f3b66613689054f7e8b))
+
 ## [2.1.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-gb-mit@2.1.7...@cspell/dict-en-gb-mit@2.1.8) (2023-03-23)
 
 

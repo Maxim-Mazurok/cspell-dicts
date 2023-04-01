@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.0.3](https://github.com/Maxim-Mazurok/cspell-dicts/compare/@cspell/dict-en-au-v1.0.2...@cspell/dict-en-au@1.0.3) (2023-04-01)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2084](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2084)) ([a76a879](https://github.com/Maxim-Mazurok/cspell-dicts/commit/a76a87934c3840e29eda36e42f1a57113e211348))
+
+
+### Miscellaneous
+
+* release main ([#2015](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2015)) ([50e337b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/50e337bb612dd8ebe3d91c09faa1a2b130997ae4))
+* release main ([#2075](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2075)) ([118bb5d](https://github.com/Maxim-Mazurok/cspell-dicts/commit/118bb5d96bf657051b639f3b66613689054f7e8b))
+* update dependencies ([#2022](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2022)) ([bb6b2b9](https://github.com/Maxim-Mazurok/cspell-dicts/commit/bb6b2b9fc9f89e7c6549913bc56a4a6ffcc8dbd0))
+
 ## [1.0.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-au@1.0.1...@cspell/dict-en-au@1.0.2) (2023-03-23)
 
 

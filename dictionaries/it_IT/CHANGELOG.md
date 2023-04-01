@@ -22,6 +22,19 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [3.0.2](https://github.com/Maxim-Mazurok/cspell-dicts/compare/@cspell/dict-it-it-v3.0.1...@cspell/dict-it-it@3.0.2) (2023-04-01)
+
+
+### Updates and Bug Fixes
+
+* (it) Add a few words. ([#2047](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2047)) ([d02e095](https://github.com/Maxim-Mazurok/cspell-dicts/commit/d02e095189edbeb1ba5f48d20dabc86f88f568d7))
+* Workflow Bot -- Build Dictionaries ([#2058](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2058)) ([e5eea29](https://github.com/Maxim-Mazurok/cspell-dicts/commit/e5eea290cde1f6e4ccb34a8168472640a75177fc))
+
+
+### Miscellaneous
+
+* release main ([#2057](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2057)) ([c626cad](https://github.com/Maxim-Mazurok/cspell-dicts/commit/c626cad9faac29cb0a81f9a58579b67325b1c247))
+
 ## [3.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-it-it@3.0.0...@cspell/dict-it-it@3.0.1) (2023-03-15)
 
 

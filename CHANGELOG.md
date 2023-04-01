@@ -1,5 +1,104 @@
 # Release Notes
 
+## [12.0.0](https://github.com/Maxim-Mazurok/cspell-dicts/compare/cspell-dicts-v11.0.7...cspell-dicts@12.0.0) (2023-04-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* Use go-words as source ([#2039](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2039))
+* Update how words are split ([#2033](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2033))
+* (go) Split out English words ([#2027](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2027))
+* Update cspell-tools for new splitting rules ([#2026](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2026))
+* (php) Only allow splits that are found in English ([#2018](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2018))
+* (dotnet) remove misspelling from dict ([#2014](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2014))
+
+### Features
+
+* Enable "sql" in VS Code by default ([#2010](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2010)) ([d6e3598](https://github.com/Maxim-Mazurok/cspell-dicts/commit/d6e35986fc4daad6373411e34cf7aa8716effb67))
+
+
+### Updates and Bug Fixes
+
+* (cpp) Add back some legacy terms for now ([#2048](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2048)) ([33ab607](https://github.com/Maxim-Mazurok/cspell-dicts/commit/33ab607b78d9e519b4575af0c94f260e7a23384f))
+* (dotnet) remove misspelling from dict ([#2014](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2014)) ([e6b43d2](https://github.com/Maxim-Mazurok/cspell-dicts/commit/e6b43d25deb0daa1eb8392b6a1e2d404099df397))
+* (go) Split out English words ([#2027](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2027)) ([f40d6f5](https://github.com/Maxim-Mazurok/cspell-dicts/commit/f40d6f51d333718026ddcaf6068fe09758703f7c))
+* (it) Add a few words. ([#2047](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2047)) ([d02e095](https://github.com/Maxim-Mazurok/cspell-dicts/commit/d02e095189edbeb1ba5f48d20dabc86f88f568d7))
+* (php) Only allow splits that are found in English ([#2018](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2018)) ([8938d78](https://github.com/Maxim-Mazurok/cspell-dicts/commit/8938d78fd51ed0f9cc7919f42aa77b5f4e7d4e11))
+* (Powershell) use build command ([#2023](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2023)) ([8578196](https://github.com/Maxim-Mazurok/cspell-dicts/commit/8578196beecaf22124342d0ce1fb2801212d859d))
+* (ruby) Allow only English word splits ([#2020](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2020)) ([d44fff0](https://github.com/Maxim-Mazurok/cspell-dicts/commit/d44fff09f9e0e8ab24bbdca2c517fe51ae8df652))
+* (scala) split on English camelCase words ([#2021](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2021)) ([68b3f0c](https://github.com/Maxim-Mazurok/cspell-dicts/commit/68b3f0ce42583f68efa0b0edbeddec4b92c55183))
+* Add "arbitrary(-ies)" to software terms dictionary ([#2070](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2070)) ([eb2f0f5](https://github.com/Maxim-Mazurok/cspell-dicts/commit/eb2f0f5d83500d8bdb42b233a3edb2cfc50a7942))
+* Add "pyright" to Python dictionary ([#2002](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2002)) ([c4623ef](https://github.com/Maxim-Mazurok/cspell-dicts/commit/c4623ef01aa26a11b9f6a4d8c19b3e1a346e6bbd))
+* add `minimalistic` to en_shared ([#2083](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2083)) ([01cc061](https://github.com/Maxim-Mazurok/cspell-dicts/commit/01cc061702b30d8eba01a9d59b362448e5088afa))
+* add `nestjs` ([#2077](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2077)) ([f9a17fa](https://github.com/Maxim-Mazurok/cspell-dicts/commit/f9a17fabd3bdfa317fc421aac6148f863e870bcd))
+* Add Clixml to PowerShell ([#2063](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2063)) ([230bd3e](https://github.com/Maxim-Mazurok/cspell-dicts/commit/230bd3ef0be412824831e905ef4ae359b3c9be3c))
+* Add Iosevka to list of fonts ([#2094](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2094)) ([b32f99a](https://github.com/Maxim-Mazurok/cspell-dicts/commit/b32f99a9c74fb60e07c650dc235b4b546b0274cd))
+* Add some AL samples ([#2009](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2009)) ([a67c456](https://github.com/Maxim-Mazurok/cspell-dicts/commit/a67c456ebb349107ca8cf2f5f095c9590021e55d))
+* Add some software related terms ([#2071](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2071)) ([1d6942e](https://github.com/Maxim-Mazurok/cspell-dicts/commit/1d6942ec4ba78740b75d4153b15f4a7f2b89f741))
+* Add some terms based upon tests ([#2053](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2053)) ([0dae79b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/0dae79b6f99a2521ba9fee575559e47e9ac9ec2d))
+* Update cspell-tools ([#2013](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2013)) ([8170205](https://github.com/Maxim-Mazurok/cspell-dicts/commit/817020598f24a6d1e82d41919e88952664de2b88))
+* Update cspell-tools for new splitting rules ([#2026](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2026)) ([33656cf](https://github.com/Maxim-Mazurok/cspell-dicts/commit/33656cfeb8afb191eb7b7c685c263ff59736a644))
+* Update fullstack.txt ([#2079](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2079)) ([0726760](https://github.com/Maxim-Mazurok/cspell-dicts/commit/0726760a63b8890477597851166b1cb04a903fcd))
+* Update how words are split ([#2033](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2033)) ([cae637e](https://github.com/Maxim-Mazurok/cspell-dicts/commit/cae637e413c3a789bb4169867af321db68768891))
+* Use go-words as source ([#2039](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2039)) ([383ecb2](https://github.com/Maxim-Mazurok/cspell-dicts/commit/383ecb2ae4ef201856c8ffe47574bdcbf78f3fea))
+* Workflow Bot -- Build Dictionaries ([#2005](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2005)) ([bc9e43a](https://github.com/Maxim-Mazurok/cspell-dicts/commit/bc9e43a88f8ff74a89f7c5da5c493145635fc7a3))
+* Workflow Bot -- Build Dictionaries ([#2016](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2016)) ([b05fe38](https://github.com/Maxim-Mazurok/cspell-dicts/commit/b05fe38c8630a5709bfe93a32128cff63f8b6967))
+* Workflow Bot -- Build Dictionaries ([#2019](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2019)) ([1d95c5b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/1d95c5b3b3a535986b60c80e8fecf85bee2ba66a))
+* Workflow Bot -- Build Dictionaries ([#2025](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2025)) ([eda2021](https://github.com/Maxim-Mazurok/cspell-dicts/commit/eda20210a249e866214301ac847608e2652113c0))
+* Workflow Bot -- Build Dictionaries ([#2028](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2028)) ([8022594](https://github.com/Maxim-Mazurok/cspell-dicts/commit/802259491c114d3bc075f4f1cef47de2aca4d787))
+* Workflow Bot -- Build Dictionaries ([#2034](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2034)) ([3fc883c](https://github.com/Maxim-Mazurok/cspell-dicts/commit/3fc883c51f748eda2cf98b995f9c0f089915f079))
+* Workflow Bot -- Build Dictionaries ([#2050](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2050)) ([c58981e](https://github.com/Maxim-Mazurok/cspell-dicts/commit/c58981eeef353d94392b1e26687529442b0bb522))
+* Workflow Bot -- Build Dictionaries ([#2055](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2055)) ([87bcb14](https://github.com/Maxim-Mazurok/cspell-dicts/commit/87bcb14c4e50b1005897331a6435c6dd83fbe0bc))
+* Workflow Bot -- Build Dictionaries ([#2058](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2058)) ([e5eea29](https://github.com/Maxim-Mazurok/cspell-dicts/commit/e5eea290cde1f6e4ccb34a8168472640a75177fc))
+* Workflow Bot -- Build Dictionaries ([#2065](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2065)) ([9766f1d](https://github.com/Maxim-Mazurok/cspell-dicts/commit/9766f1d8e5eb2dbb1773ce5bbb39df65927b8303))
+* Workflow Bot -- Build Dictionaries ([#2072](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2072)) ([7c7f650](https://github.com/Maxim-Mazurok/cspell-dicts/commit/7c7f650e7af426f8893fd20facb4fc8db1bae75b))
+* Workflow Bot -- Build Dictionaries ([#2084](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2084)) ([a76a879](https://github.com/Maxim-Mazurok/cspell-dicts/commit/a76a87934c3840e29eda36e42f1a57113e211348))
+
+
+### Build System
+
+* **deps-dev:** bump @cspell/cspell-tools from 6.29.1 to 6.29.2 ([#2029](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2029)) ([14bc675](https://github.com/Maxim-Mazurok/cspell-dicts/commit/14bc6751b0f37f6a05f1fae3ba2afa280957b852))
+* **deps-dev:** bump @cspell/cspell-tools from 6.29.3 to 6.30.0 ([#2060](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2060)) ([802fdff](https://github.com/Maxim-Mazurok/cspell-dicts/commit/802fdff6dd9e2ce45e49120b8016f6555323d1f7))
+* **deps:** bump streetsidesoftware/cspell-action from 2.22.0 to 2.23.0 ([#1999](https://github.com/Maxim-Mazurok/cspell-dicts/issues/1999)) ([2007b5b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/2007b5bd7bf1470880b482d558d68f50f8b4e2c8))
+* **deps:** bump streetsidesoftware/cspell-action from 2.23.0 to 2.25.0 ([#2090](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2090)) ([ad27e53](https://github.com/Maxim-Mazurok/cspell-dicts/commit/ad27e53eee5f2fd93992674271981b7579bcdd6e))
+* **deps:** bump streetsidesoftware/cspell-action from 2.25.0 to 2.26.0 ([#2092](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2092)) ([d4bf19d](https://github.com/Maxim-Mazurok/cspell-dicts/commit/d4bf19df30233c50ea933db009b300daa2a35666))
+
+
+### Miscellaneous
+
+* Do not change sha to older one ([e37f44b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/e37f44b7cc7b94e5c7216d32f1409ea306f9ffd0))
+* fix lint issues ([860da08](https://github.com/Maxim-Mazurok/cspell-dicts/commit/860da080f35f32ec624031e076d3db4bf0179162))
+* prepare to publish ([#2008](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2008)) ([8cf1ac5](https://github.com/Maxim-Mazurok/cspell-dicts/commit/8cf1ac59f00171b4ae8632e0ec52d659a65ed429))
+* release main ([#1997](https://github.com/Maxim-Mazurok/cspell-dicts/issues/1997)) ([598ddd6](https://github.com/Maxim-Mazurok/cspell-dicts/commit/598ddd61d73d1f268f3cb6ab67761de2e52883a1))
+* release main ([#2006](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2006)) ([7488f0f](https://github.com/Maxim-Mazurok/cspell-dicts/commit/7488f0ff144ce7cb739dc2e8ed33ae046700c019))
+* release main ([#2015](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2015)) ([50e337b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/50e337bb612dd8ebe3d91c09faa1a2b130997ae4))
+* release main ([#2049](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2049)) ([ba9971c](https://github.com/Maxim-Mazurok/cspell-dicts/commit/ba9971cea153bba6b75cbd65bae2cd6284ff43de))
+* release main ([#2054](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2054)) ([f9e5d70](https://github.com/Maxim-Mazurok/cspell-dicts/commit/f9e5d7009968dd20e50f555f0dd62b699dde4ad2))
+* release main ([#2057](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2057)) ([c626cad](https://github.com/Maxim-Mazurok/cspell-dicts/commit/c626cad9faac29cb0a81f9a58579b67325b1c247))
+* release main ([#2064](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2064)) ([c547d71](https://github.com/Maxim-Mazurok/cspell-dicts/commit/c547d7174a8612e02ef58bf879f671158311a938))
+* release main ([#2068](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2068)) ([ce7dd93](https://github.com/Maxim-Mazurok/cspell-dicts/commit/ce7dd93a4b482673b3d6cd528d4f7597048ec1b7))
+* release main ([#2075](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2075)) ([118bb5d](https://github.com/Maxim-Mazurok/cspell-dicts/commit/118bb5d96bf657051b639f3b66613689054f7e8b))
+* release main ([#2089](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2089)) ([0f6fc04](https://github.com/Maxim-Mazurok/cspell-dicts/commit/0f6fc04dbfb4ddbe9fdb706e85df6d3811aefa96))
+* restore the PHP Sections to the source. ([#2024](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2024)) ([50c369c](https://github.com/Maxim-Mazurok/cspell-dicts/commit/50c369c659d4db1caf71a1f93fb2d57b871a4c83))
+* update dependencies ([#2022](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2022)) ([bb6b2b9](https://github.com/Maxim-Mazurok/cspell-dicts/commit/bb6b2b9fc9f89e7c6549913bc56a4a6ffcc8dbd0))
+* Use cspell-tools build ([#2017](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2017)) ([57b2bf3](https://github.com/Maxim-Mazurok/cspell-dicts/commit/57b2bf317314a99e3a96a08fb116600ad733c9e7))
+
+
+### Continuous Integration
+
+* Stop release-please from looking too far back ([987d14a](https://github.com/Maxim-Mazurok/cspell-dicts/commit/987d14ab4c98bb3fbee4d2647bd8fceb4bb49f65))
+* Workflow Bot -- Update ALL Dependencies (main) ([#1998](https://github.com/Maxim-Mazurok/cspell-dicts/issues/1998)) ([d410a8d](https://github.com/Maxim-Mazurok/cspell-dicts/commit/d410a8dc127913dff9b69a5bb0d1b96c219efb65))
+* Workflow Bot -- Update ALL Dependencies (main) ([#2001](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2001)) ([8851a34](https://github.com/Maxim-Mazurok/cspell-dicts/commit/8851a343f6f81911614f144632fae0c2751d8969))
+* Workflow Bot -- Update ALL Dependencies (main) ([#2007](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2007)) ([2bb0bda](https://github.com/Maxim-Mazurok/cspell-dicts/commit/2bb0bdae478ee81614fca9563ef260d61446738e))
+* Workflow Bot -- Update ALL Dependencies (main) ([#2038](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2038)) ([cc81d1b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/cc81d1bb7b02e64570717f9875b8352eda8f8c1e))
+* Workflow Bot -- Update ALL Dependencies (main) ([#2046](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2046)) ([15d37e1](https://github.com/Maxim-Mazurok/cspell-dicts/commit/15d37e1bfa18ac5f5e63e2a00ddd3b94f02f13f6))
+* Workflow Bot -- Update ALL Dependencies (main) ([#2056](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2056)) ([d196b61](https://github.com/Maxim-Mazurok/cspell-dicts/commit/d196b6103c5750e8465e2ae22f5651236f2087ef))
+* Workflow Bot -- Update ALL Dependencies (main) ([#2069](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2069)) ([58c0053](https://github.com/Maxim-Mazurok/cspell-dicts/commit/58c0053be109ff3fd43ebb57f0915a585385ee85))
+* Workflow Bot -- Update ALL Dependencies (main) ([#2074](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2074)) ([7be87e0](https://github.com/Maxim-Mazurok/cspell-dicts/commit/7be87e00a4cc1f741561ff978c4afdf946e179e9))
+* Workflow Bot -- Update ALL Dependencies (main) ([#2076](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2076)) ([5592edc](https://github.com/Maxim-Mazurok/cspell-dicts/commit/5592edc5b2a87fdabdaa65a7560307dfc19b7b29))
+* Workflow Bot -- Update ALL Dependencies (main) ([#2091](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2091)) ([fd81f4e](https://github.com/Maxim-Mazurok/cspell-dicts/commit/fd81f4e7e7e7ad93a074162dd26ea0e57ed6115c))
+* Workflow Bot -- Update ALL Dependencies (main) ([#2095](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2095)) ([f7a7b8e](https://github.com/Maxim-Mazurok/cspell-dicts/commit/f7a7b8e43289ac62891ab3a498739635382ce595))
+
 ## [11.0.7](https://github.com/streetsidesoftware/cspell-dicts/compare/cspell-dicts@11.0.6...cspell-dicts@11.0.7) (2023-03-30)
 
 

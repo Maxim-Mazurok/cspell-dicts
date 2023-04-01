@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.3](https://github.com/Maxim-Mazurok/cspell-dicts/compare/@cspell/dict-fonts-v3.0.2...@cspell/dict-fonts@3.0.3) (2023-04-01)
+
+
+### Updates and Bug Fixes
+
+* Add Iosevka to list of fonts ([#2094](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2094)) ([b32f99a](https://github.com/Maxim-Mazurok/cspell-dicts/commit/b32f99a9c74fb60e07c650dc235b4b546b0274cd))
+
+
+### Miscellaneous
+
+* release main ([#2089](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2089)) ([0f6fc04](https://github.com/Maxim-Mazurok/cspell-dicts/commit/0f6fc04dbfb4ddbe9fdb706e85df6d3811aefa96))
+
 ## [3.0.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-fonts@3.0.1...@cspell/dict-fonts@3.0.2) (2023-03-30)
 
 

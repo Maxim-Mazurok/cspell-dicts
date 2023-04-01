@@ -22,6 +22,26 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [6.0.0](https://github.com/Maxim-Mazurok/cspell-dicts/compare/@cspell/dict-scala-v5.0.0...@cspell/dict-scala@6.0.0) (2023-04-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update how words are split ([#2033](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2033))
+* Update cspell-tools for new splitting rules ([#2026](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2026))
+
+### Updates and Bug Fixes
+
+* (scala) split on English camelCase words ([#2021](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2021)) ([68b3f0c](https://github.com/Maxim-Mazurok/cspell-dicts/commit/68b3f0ce42583f68efa0b0edbeddec4b92c55183))
+* Update cspell-tools for new splitting rules ([#2026](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2026)) ([33656cf](https://github.com/Maxim-Mazurok/cspell-dicts/commit/33656cfeb8afb191eb7b7c685c263ff59736a644))
+* Update how words are split ([#2033](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2033)) ([cae637e](https://github.com/Maxim-Mazurok/cspell-dicts/commit/cae637e413c3a789bb4169867af321db68768891))
+* Workflow Bot -- Build Dictionaries ([#2019](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2019)) ([1d95c5b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/1d95c5b3b3a535986b60c80e8fecf85bee2ba66a))
+
+
+### Miscellaneous
+
+* release main ([#2015](https://github.com/Maxim-Mazurok/cspell-dicts/issues/2015)) ([50e337b](https://github.com/Maxim-Mazurok/cspell-dicts/commit/50e337bb612dd8ebe3d91c09faa1a2b130997ae4))
+
 ## [5.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-scala@4.0.1...@cspell/dict-scala@5.0.0) (2023-03-14)
 
 
